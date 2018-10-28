@@ -13,7 +13,7 @@ public class HelloworldApplication {
 	}
 
 	public static String helloworldprint(){
-		System.out.println("Hellow World");
+		System.out.println("Hello World 1");
 		return "HelloWorld";
 
 	}
